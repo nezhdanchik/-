@@ -10,7 +10,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup
 from aiogram.types import Message
 
-TOKEN = "8041713572:AAESTo0FRRpIGIJsdxLEk-CRF965bx8Vl1A"
+TOKEN = ""
 
 dp = Dispatcher()
 
